@@ -85,6 +85,6 @@ R² Score: 0.729
 We used pairplot to visualize relationships between numerical features in the dataset.  
 The following plot helps in identifying linear relationships and feature distributions:
 
-![Pairplot Comparison](images/project_result.png)
 
+![Pairplot Comparison](images/project_result.png)
 
